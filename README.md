@@ -27,7 +27,7 @@ O projeto dá suporte para a gestão de uma locadora de títulos, definimos os t
 Ao executar o programa será inicializado registros de exempplo mockados. Será possível criar novos registros e editá-los, de acordo com a necessidade do usuário.
 
 O programa dá suporte para:
-- Alugar títulos existentes no acervo
+- Alugar títulos existentes no acervo, para locações com 5 ou mais títulos é aplicada uma promoção de 10% de desconto ao preço total da venda
 - Devoluções de títulos alugados, bem como a atualização de status das locações
 - Cadastrar novos títulos
 - Atualizar o estoque, bem como aquisição de novo título ou lançamento de perda
