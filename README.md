@@ -42,7 +42,8 @@ Aconselha-se a executar o programa em IntelliJ IDEA para seu melhor desempenho.
 Outra opção seria copiar o código fonte do projeto e utilizar o compilador online para Kotlin: https://www.tutorialspoint.com/compile_kotlin_online.php
   - Sendo esta segunda opção menos aconselhada, pois o programa pode apresentar erros de formatação indevidos por não estar em ambiente ideal para seu funcionamento.
 
-- <a href = "https://github.com/devlower/trabalho-LP-POO/blob/main/locMain.kt">Código fonte<></a>
+- <a href = "https://github.com/devlower/trabalho-LP-POO/blob/main/locMain.kt">Código fonte</a>
+- <a href = "https://github.com/devlower/trabalho-LP-POO/blob/main/UML.pdf">Diagrama UML</a>
 
 ========================================
 
